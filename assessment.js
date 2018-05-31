@@ -58,7 +58,6 @@
     }
 
 
-
     assessmentButton.onclick = () => {
         const userName = userNameInput.value;
         if (userName.length === 0) {
